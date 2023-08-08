@@ -17,4 +17,7 @@ This is a script that lists environment variables.
 This is a script that lists all local variables and environment variables, and functions.
 
 ## 6-create_local_variable
-In this script I created a new variable
+In this script I created a new variable.
+
+## 7-create_global_variable
+In this script I created a global variable
