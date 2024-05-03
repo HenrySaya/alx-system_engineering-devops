@@ -11,8 +11,8 @@ do
 			echo "4"
 			echo "bad luck from china"
 			;;
-		7)
-			echo "7"
+		9)
+			echo "9"
 			echo "bad luck from Japan"
 			;;
 		17)
