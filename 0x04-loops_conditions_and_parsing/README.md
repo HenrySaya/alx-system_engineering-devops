@@ -53,3 +53,12 @@ In this particular bash scripting project I had an overview and understanding of
 	* display minutes from 1 to 59
   * Requirements:
 	* Used the `while` loop nested
+
+* **8.For ls**
+  * [8-for_ls](./8-for_ls): This script displays:
+	* The content of the current directory
+	* In a list format
+	* Where only the part of the name after the first dash is displayed
+  * Requirements:
+	* Used the `for` loop
+	* Not display hidden files
