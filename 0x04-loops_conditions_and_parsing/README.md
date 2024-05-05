@@ -62,3 +62,15 @@ In this particular bash scripting project I had an overview and understanding of
   * Requirements:
 	* Used the `for` loop
 	* Not display hidden files
+
+* **9. To file, or not to file**
+  * [9-to_file_or_not_to_file](./9-to_file_or_not_to_file): This is a bash script that gives you information about the `school` file
+  * Requirements:
+	* Used `if` and, `else`
+	* if the file exist: `school file exists`
+	* if the file does not exist: `school file does not exist`
+	* If the file exists, print:
+		* if the file is empty: `school file is empty`
+		* if the file is not empty: `school file is not empty`
+		* if the file is a regular file: `school is a regular file`
+		* if the file is not a regular file: (nothing)
