@@ -46,3 +46,10 @@ In this particular bash scripting project I had an overview and understanding of
   * Requirements:
 	* Used the `while` loop
 	* used the `case` statement for switch scenarios
+
+* **7.Clock**
+  * [7-clock](./7-clock): This script displays the time for 12 hours and 59 minutes:
+	* display hours from 0 to 12
+	* display minutes from 1 to 59
+  * Requirements:
+	* Used the `while` loop nested
