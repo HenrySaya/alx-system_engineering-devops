@@ -1,4 +1,6 @@
-0x05. Processes and signals
+# 0x05. Processes and signals
+==============================
+
 In this project we had to look at the following concepts
   * Linux PID
   * Linux process
