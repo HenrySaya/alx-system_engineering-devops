@@ -21,7 +21,7 @@ Anyway started cooking as the chef I am and would present my `*spicy*-wins` toge
 
 ![spicywin3](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240507T193507Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ff673a2a72ea10bbf3460c0647d201e97acd57818605f771fd51fce924e9c2f8)
 
-<! ---Unfortunatel the spicy wins images are not displayed at all--->
+<!-- Unfortunatel the spicy wins images are not displayed at all -->
 
 * **3. Repetition Token #2**
   * [3-repetition_token_2.rb](./3-repetition_token_2.rb): ruby script regexp that matches 1 or more occurence of `t` in `hbtn` test cases
