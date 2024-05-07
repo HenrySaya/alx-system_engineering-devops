@@ -34,3 +34,7 @@ Anyway started cooking as the chef I am and would present my `*spicy*-wins` toge
 
 * **6. Call me maybe**
   * [6-phone_number.rb](./6-phone_number.rb): regexp matches a 10 digit phone number. `Spicy`-win thanks to [Neha Jain](https://twitter.com/_nehajain)
+
+* **7. OMG WHY ARE YOU SHOUTING?**
+![context pic](https://intranet.alxswe.com/images/contents/sysadmin/projects/78/shouting.jpg)
+  * [7-OMG_WHY_ARE_YOU_SHOUTING.rb](./7-OMG_WHY_ARE_YOU_SHOUTING.rb): This regular expression only matches capital letters
