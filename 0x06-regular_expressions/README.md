@@ -31,3 +31,6 @@ Anyway started cooking as the chef I am and would present my `*spicy*-wins` toge
 
 * **5. Not quite HBTN yet**
   * [5-beginning_and_end.rb](./5-beginning_and_end.rb): regexp is exactly matching a string that starts with `h` ends with `n` and has only one character in between
+
+* **6. Call me maybe**
+  * [6-phone_number.rb](./6-phone_number.rb): regexp matches a 10 digit phone number. `Spicy`-win thanks to [Neha Jain](https://twitter.com/_nehajain)
