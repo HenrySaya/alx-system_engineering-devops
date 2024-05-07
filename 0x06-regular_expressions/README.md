@@ -13,10 +13,10 @@ Anyway started cooking as the chef I am and would present my `*spicy*-wins` toge
 
 * **1. Repetition Token #0**
   * [1-repetition_token_0.rb](./1-repetition_token_0.rb): ruby script that implement the `{}` token
+
 ![spicy-win2](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/e7db3c377d46453588fc84f3a975661d142fee91.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240507T193507Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4b15ab5c26e6e5bab29418ffbf0dbf001f25a5630d0dc11f550e1e6d3f3b0c2c)
 
 * **2. Repetition Token #1**
   * [2-repetition_token_1.rb](./2-repetition_token_1.rb): expression to match 0 or 1 occurence of `b` in `test string`
-![spicy-win3](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240507T193507Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ff673a2a72ea10bbf3460c0647d201e97acd57818605f771fd51fce924e9c2f8)
 
-
+![spicywin3](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/c59ff11db195d5cf17d1790a5141ae2f234786d2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240507%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240507T193507Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ff673a2a72ea10bbf3460c0647d201e97acd57818605f771fd51fce924e9c2f8)
