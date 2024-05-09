@@ -26,3 +26,6 @@ In this project I mainly focused on:
 		2. From the lowest to the highest level
 		3. Randomly
   * [0-OSI_model](./0-OSI_model): contains answers to the above questions
+
+* **1. Types of network**
+  * ![1-types_of_network](./1-types_of_network): LAN vs WAN
